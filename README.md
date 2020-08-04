@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there I'm Vaibhav👋
 
-<!--
-**vaibhav111tandon/vaibhav111tandon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I am a undergrad and a developer.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on some personal projects
+- 🌱 I’m currently learning everything
+- 💬 Ask me about JS, HTML, CSS, Android stuff
+- 🥅 2020 Goals, Contribute more to open source.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="vaibhavtandon.co" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Programmer Boy | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="hypermystic111 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="vaibhav111tandon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="hypermystic | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br/>
+
+<img align="left" alt="vaibhav111tandon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vaibhav111tandon&show_icons=true&hide_border=true" />
+
+---
+
+[website]: https://vaibhavtandon.co/
+[twitter]: https://twitter.com/hypermystic111
+[youtube]: https://www.youtube.com/channel/UCvuDmtC653DUP7qDAaQ4OgA
+[instagram]: https://www.instagram.com/hypermystic/
+[linkedin]: https://linkedin.com/in/vaibhav111tandon
