@@ -16,8 +16,12 @@
 [<img align="left" alt="hypermystic | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
+<br/>
 
-<img align="left" alt="vaibhav111tandon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vaibhav111tandon&show_icons=true&hide_border=true" />
+<img align="left" alt="vaibhav111tandon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vaibhav111tandon&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+
+
+<img align="center" src="https://profile-counter.glitch.me/vaibhav111tandon/count.svg" />
 
 ---
 
