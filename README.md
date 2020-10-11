@@ -20,8 +20,9 @@
 
 <img align="left" alt="vaibhav111tandon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vaibhav111tandon&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
 
-
+<!---
 <img align="center" src="https://profile-counter.glitch.me/vaibhav111tandon/count.svg" />
+-->
 
 ---
 
